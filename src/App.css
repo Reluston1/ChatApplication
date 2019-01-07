@@ -1,0 +1,101 @@
+.react-scrollbar-default {
+  width: 35%;
+  min-width: 300px;
+  max-height: 450px;
+}
+ 
+/*The Content*/
+.scroll-me {
+  min-width: 750px;
+}
+
+
+.Form{
+  height: 600px;
+  width: 500px;
+  margin-left: 34%;
+  margin-top: 15%;
+  background-color: #61dafb;
+  border-radius: 4%;
+}
+
+.humanStyle {
+  background-color: #66FFFF;
+  margin-left: 140px;
+  margin-Top: 2px;
+  margin-Right: 10px;
+}
+.ChatRoom {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+.one{
+margin-left: 60%;
+display:inline-block;
+}
+.two{
+  margin-right: 60%;
+}
+.Messaging-Board{
+  width: 600px;
+  height: 730px;
+  background-color: rgb(201, 195, 195);
+  border-radius: 2%;
+}
+.scrollbar{
+  height: 200px;
+   margin-top: 3px;
+}
+.scroll{
+  width: 80%;
+  height: 80%;
+  border-radius: 2%;
+  margin-left: 10%;
+  margin-top: 10%;
+  background-color: white;
+
+}
+.messagebox{
+  background-color: red;
+  width: 80%;
+  margin-left: 1%;
+  border-radius: 50px;
+}
+.input-box{
+  height: 70px;
+  width: 500px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: white;
+  font-size: 40px;
+  border-style: none;
+  border-radius: 20px;
+}
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color:black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
