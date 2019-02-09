@@ -1,3 +1,5 @@
+basicChatApplication is a simple user authentication and chat hosting system
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
